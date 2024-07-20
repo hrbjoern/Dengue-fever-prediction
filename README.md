@@ -21,7 +21,7 @@ Kedro is used for running the processing pipeline and must be installed in the v
 pip install kedro
 ```
 
-All other requirements are listed in the requirements file and can be installed as such: 
+All other requirements are listed in the requirements file and can be installed within the virtual environment as such: 
 ```
 pip install -r requirements.txt
 ```
